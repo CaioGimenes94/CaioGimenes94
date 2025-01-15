@@ -7,7 +7,7 @@ Estou de mudança, partindo da área de drones, sem escalas, direto pra faculdad
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-gimenes-alves/)
 
-## 💻 Áreas de interesses
+## 💻 Áreas de interesse
 Back-end, análise de dados, cibersegurança, blockchain e IA.
 
 ## 🧰 Caixa de Ferramentas
