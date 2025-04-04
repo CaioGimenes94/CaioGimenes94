@@ -2,7 +2,7 @@
 ## 🛩 Sobre 👨‍💻
 Olá, meu nome é Caio, obrigado pela visita.
 
-Estou de mudança, partindo da área de drones, sem escalas, direto pra faculdade de ADS. Empolgado com o futuro da tecnologia!
+Estou de mudança, partindo da área de drones direto pra faculdade de ADS e sempre empolgado com a tecnologia!
 #### Pra mais sobre mim, chama no LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-gimenes-alves/)
